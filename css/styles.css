@@ -1,0 +1,29 @@
+/* reset */
+.{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.bodyUno{
+
+height: 600px;
+text-align: center;
+background-image: url("../images/123.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+
+
+.calculadoraIva{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 200px;
+}
+
+.footerUno{
+    text-align: center;
+}
